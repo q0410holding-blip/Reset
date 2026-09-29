@@ -147,3 +147,27 @@ This is a German-language public information site for adults considering medical
 - JSON-LD nach Umsetzung parsebar (kein Syntaxfehler), in initialem HTML **aller** Seiten identisch (Prerender).
 - Rich-Results-/Schema-Validator ohne Fehler; nur echte Warnungen dokumentieren.
 - `https://abnehmen-mit-arzt.de/llms.txt` nach Release abrufbar, `text/plain`, alle Links 200 (nach Routing-Fix von Thema 1).
+
+## Paket 4 – Nacharbeiten vor dem Release (Nutzer: „Kannst die Anpassungen auch vor Release machen“)
+
+Umsetzung durch den Replit-Writer (Thema 1), danach dieselben Prüfungen wie für `e5dfed7`. Startseite, Funnels und Conversion-Elemente bleiben unverändert (S17/S18).
+
+**P4-1 og:site_name.** In `src/hooks/use-seo.ts` wird `upsertMeta("og:site_name", "AMITA Abnehmzentrum", "property")` zu `"Abnehmen mit Arzt (AMITA)"`, damit es zu `index.html` passt. Sonst hydriert jede Unterseite den alten Namen.
+
+**P4-2 Titelsuffix S19**, nur dort, wo der Markenname fehlt oder abgeschnitten ist. Den individuellen Teil nicht umformulieren.
+
+| Route | Quelle | neu |
+|---|---|---|
+| /abnehmspritze-ohne-diabetes | `src/pages/seo/AbnehmspritzeOhneDiabetes.tsx` (SeoArticle title) | `Abnehmspritze ohne Diabetes: Wer sie bekommt \| Abnehmen mit Arzt (AMITA)` |
+| /vergleich-golighter | `src/data/vergleich.json` pages[].title | `AMITA vs. GoLighter – Abnehmprogramm Vergleich \| Abnehmen mit Arzt (AMITA)` |
+| /vergleich-doktorabc | `src/data/vergleich.json` pages[].title | `AMITA vs. DoktorABC – Abnehmspritze Vergleich \| Abnehmen mit Arzt (AMITA)` |
+| /vergleich-hausarzt | `src/data/vergleich.json` pages[].title | `Abnehmspritze: Hausarzt oder Abnehmzentrum? \| Abnehmen mit Arzt (AMITA)` (ersetzt `\| AMITA`) |
+| /fuer-arzte | `src/pages/FuerFachkreise.tsx` (useSeo) **und** `scripts/prerender-seo.mjs` legalRoutes (beide gleich) | `Für Ärzte: AMITA Partnerpraxis werden \| Abnehmen mit Arzt (AMITA)` |
+
+**Bewusst unverändert:** Diese fünf Titel nennen den Berliner Behandlungsort „AMITA Abnehmzentrum“. Das ist nach C2 korrekt, und es sind bestehende SEO-Titel (S18): /abnehmspritze-berlin, /abnehmspritze-kosten, /mounjaro-berlin, /wegovy-berlin, /abnehmzentrum-berlin. Ebenso unverändert bleiben die Startseite, die Titel der Funnel-Shells und 404.
+
+**P4-3 llms.txt Partnerzeile.** Die Zeile `- Partner practices (in addition to Berlin): …` ersetzen durch:
+
+`- Partner practices: in addition to Berlin, AMITA works with partner practices in several German cities, including Hamburg (Dr. med. Karima Abou Deif-Strathmann, Im Alten Dorfe 24, 22359 Hamburg) and Düsseldorf (ESTHETIOS, Rustam Khadzhiev, Königsallee 30, 40212 Düsseldorf). The complete, current list is in the directory: https://partner.abnehmen-mit-arzt.de/`
+
+**Abnahme P4:** Prerender-Titel = Laufzeit-Titel für alle 22 Routen, `og:site_name` nach der Hydration „Abnehmen mit Arzt (AMITA)“, `seo-routing`-Test auf eindeutige Titel (22) grün, llms.txt ohne weitere Änderungen.
