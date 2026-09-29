@@ -2,6 +2,8 @@
 
 > **Nutzerentscheidung S17 (29.09.2026, Stefan):** Conversion-Treiber werden **nicht** angepasst. Das umfasst Bewertungen, „Bekannt aus“, Preisvergleiche (inkl. Aussagen über Wettbewerber), 24/7, Antwortzeiten (laut Nutzer zutreffend), Erfolgszahlen, Patientenberichte und Funnels. **Das Startseiten-Wording bleibt unverändert.** Wörtlich: „Nein sowas auf gar keinen Fall anpassen! Das sind conversion driver! Auch nicht Wordings auf der Homepage home seite anpassen!“ S17 hat Vorrang vor SEITENMATRIX A4 (Startseite), A5, A6 sowie CHANGESET W04 (Darstellung) und W05. Inhalte nicht hinterfragen, sondern darauf aufbauen.
 >
+> **Grundregel S18 (Stefan):** „Overall Regel – nutze die aktuellen Informationen und baue drauf auf und ändere sie nicht ab!“ Bestehende Inhalte werden nicht umformuliert. Geändert wird nur, was der Nutzer selbst entschieden hat.
+>
 > **Verbleibender Umfang:** (a) sachliche Kontaktkorrektur (Telefon, Schema-E-Mail, Rollen Betreiber/Praxis); (b) Ablösung des 12-Monats-Angebots (S16); (c) 50-€-Aftercare durch A3 ersetzen (S16). Auf der Startseite ändern sich nur geteilte Komponenten mit der Telefonnummer (Header, Footer, Schema), kein sichtbarer Startseitentext.
 
 Stand 29.09.2026. Rein lesende Inventur des **aktuellen** Replit-Quellstands (App `8dddf442-7691-4e3c-aea1-f521b9b1c7f8`, `artifacts/shotsy-landing`) per Replit MCP `list_app_files`/`read_app_file`. Kein Schreibauftrag, keine Veröffentlichung. Texte **1:1** aus SEITENMATRIX (A1–A6, B1, C1–C3) und CHANGESET (W01–W09) übernehmen, nichts neu formulieren. Bei W04/A1-Abweichung gilt A1.
@@ -90,9 +92,9 @@ Im aktuellen Quellstand nicht vorhanden: `Home.tsx` rendert `PriceComparisonTeas
 
 F1 „Bekannt aus“ bleibt · F2 Funnels bleiben · F3 12-Monats-Patientenberichte bleiben · F4 Vergleiche inkl. Aussagen über Wettbewerber bleiben · F5 Support-Antwortzeiten stimmen und bleiben.
 
-## Offen
+## Offen / geklärt
 
-- **F6** „Einziger deutscher Anbieter …“ steht unsichtbar im Suchmaschinen-Datenblock (`index.html:178`). Laut RES-365 sollte er ersetzt werden, im Google-Profil ist er schon entfernt. Nach S17 ohne Nutzerbestätigung **nicht** ändern.
+- **F6 geklärt:** „Einziger deutscher Anbieter …“ im Schema bleibt (Grundregel S18).
 
 ## Abnahme nach Umsetzung
 
