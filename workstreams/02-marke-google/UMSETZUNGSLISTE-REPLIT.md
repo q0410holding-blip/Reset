@@ -30,13 +30,16 @@ Einzige gefundene Nummer. `0163 5874217` kommt im Quellstand nicht vor. Keine Wh
 
 Sichtbar `+49 30 75435335`, Link `tel:+493075435335`, Schema `+493075435335`.
 
-## 2. Marke W01 / Rollen C2
+## 2. Marke W01 / Rollen C2 (Nutzerentscheidung S19: „Muss angepasst werden!“)
 
-- Kein sichtbarer Startseitentext wird geändert (S17). Titel-Suffixe, Breadcrumb-Start (`lib/public-urls.ts` defaultBreadcrumb, `SeoArticle.tsx`, Prerender): „AMITA Abnehmzentrum“ → `| Abnehmen mit Arzt (AMITA)` bzw. Breadcrumb `Abnehmen mit Arzt`.
+- **Seitentitel der Unterseiten:** Das Suffix „AMITA Abnehmzentrum“ wird zu `| Abnehmen mit Arzt (AMITA)`. Der individuelle Seitenteil bleibt (useSeo in den Seiten, `SeoArticle.tsx`, Vergleichsseiten, Prerender). Der Titel der Startseite und ihr sichtbarer Text bleiben unverändert (S17).
+- **Datenblock/Schema:** siehe Z1–Z5 (MedicalBusiness/LocalBusiness name `Abnehmen mit Arzt`, alternateName `AMITA Abnehmzentrum`; WebSite name `Abnehmen mit Arzt`, alternateName `AMITA`; meta author/og:site_name).
+- **Breadcrumb-Start** (`lib/public-urls.ts` defaultBreadcrumb, `SeoArticle.tsx`, Prerender, BreadcrumbList-Schema): `Abnehmen mit Arzt`.
 - `public/site.webmanifest` „AMITA Berlin“ → `Abnehmen mit Arzt`.
-- Footer-Label `Abnehmen mit Arzt (AMITA)`.
+- **Sonst keinen sichtbaren Fließtext ändern** (S18). „AMITA Abnehmzentrum“ als Bezeichnung des Berliner Behandlungsorts im Fließtext bleibt korrekt (C2).
 - Impressum: Betreiber AMITA GmbH/Zehdenicker Straße 7a bleibt; Berliner Behandlungsort getrennt.
 - Nicht ändern: juristische Firmierung, fremde Marken in Vergleichen, interne Keys („reset“, „reset-hq“).
+- **Kein Link „Praxen & Partnerärzte“ ergänzen** (Nutzer: „ne erstmal nicht“; W08-Link zurückgestellt).
 
 ## 3. 12-Monats-Angebot ablösen (B1/W09)
 
