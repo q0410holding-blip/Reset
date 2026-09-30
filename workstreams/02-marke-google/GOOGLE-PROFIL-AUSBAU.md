@@ -78,7 +78,9 @@ Aktuell 4,8 aus 8 Rezensionen (Stand Prüftag). Ziel: kontinuierlich neue, echte
 1. **Alle** Patienten fragen, nicht nur zufriedene. Vorfiltern („Review Gating“) verbietet Google ausdrücklich. Die Auswahl entsteht über den Zeitpunkt: gefragt wird nach einem positiven Meilenstein.
 2. **Keine Gegenleistung** für Bewertungen (kein Rabatt, keine Verlosung). Verstößt gegen Google-Richtlinien und UWG.
 
-**Bewertungslink holen:** Unternehmensprofil → „Bewertungen einholen“ bzw. „Rezensionen erhalten“ → Kurzlink kopieren (Format `https://g.page/r/…/review`). Diesen Link unten einsetzen.
+**Bewertungslink (von Cowork am 29.09. aus dem Profil geholt):** https://g.page/r/CcZYnIFUYtzEEBM/review · QR-Code: `google-bewertung-qr.png` (in diesem Ordner, druckfertig für Empfang und Willkommensmappe).
+
+**Bewertungslink holen (Referenz):** Unternehmensprofil → „Bewertungen einholen“ bzw. „Rezensionen erhalten“ → Kurzlink kopieren (Format `https://g.page/r/…/review`). Diesen Link unten einsetzen.
 
 **Zeitpunkte:**
 - Nach dem Erstgespräch vor Ort (Tag 1–2)
@@ -86,7 +88,7 @@ Aktuell 4,8 aus 8 Rezensionen (Stand Prüftag). Ziel: kontinuierlich neue, echte
 - Zum Programmende nach 6 Monaten
 
 **Nachricht (WhatsApp/SMS/E-Mail), Vorlage:**
-> Hallo {Vorname}, vielen Dank für Ihr Vertrauen in Abnehmen mit Arzt (AMITA). Wenn Sie einen Moment Zeit haben, würden wir uns über Ihre ehrliche Bewertung auf Google sehr freuen. Sie hilft anderen Menschen bei ihrer Entscheidung: {Bewertungslink}
+> Hallo {Vorname}, vielen Dank für Ihr Vertrauen in Abnehmen mit Arzt (AMITA). Wenn Sie einen Moment Zeit haben, würden wir uns über Ihre ehrliche Bewertung auf Google sehr freuen. Sie hilft anderen Menschen bei ihrer Entscheidung: https://g.page/r/CcZYnIFUYtzEEBM/review
 > Herzliche Grüße, Ihr AMITA-Team
 
 **Vor Ort:** QR-Code auf den Bewertungslink am Empfang und auf einer Karte in der Willkommensmappe.
