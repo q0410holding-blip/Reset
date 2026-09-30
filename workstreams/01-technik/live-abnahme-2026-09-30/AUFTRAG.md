@@ -101,3 +101,24 @@ Am 30.09. gegen 14:00 UTC wurde erneut veröffentlicht (Paket 5/6, vermutlich mi
    ```
 3. Die vier Dateien nach `workstreams/01-technik/live-abnahme-2026-09-30/ergebnisse/` in denselben Branch pushen.
 4. In Linear RES-341 das Ergebnis aus der letzten Zeile von `vergleich-p5.md` melden. Wenn etwas nicht bestanden ist, die betroffenen Zeilen dazuschreiben.
+
+## Teil E – Impressum: Registergericht und HRB ergänzen (RES-397, nach Teil D)
+
+Stefan hat die Werte am 30.09. bestätigt und den Einbau beauftragt: Registergericht Amtsgericht Charlottenburg, Registernummer HRB 288229 B.
+
+1. Den Writer-Lock in Linear RES-371 anmelden: „Thema 1 lokal schreibt: Impressum HRB (RES-397)“.
+2. Im AMITA-Workspace bei Shot Enhancer den Replit-Agenten mit genau dieser Ergänzung beauftragen: Auf `/impressum/` kommen bei den Firmenangaben der AMITA GmbH zwei Zeilen hinzu:
+   - `Registergericht: Amtsgericht Charlottenburg`
+   - `Registernummer: HRB 288229 B`
+
+   Die Zeilen müssen überall eingetragen werden, woraus die Seite entsteht (Seitenkomponente und gegebenenfalls Prerender), damit sie auch im initialen HTML stehen. Sonst nichts ändern und keinen bestehenden Text umformulieren.
+3. **Vor dem Veröffentlichen prüfen:**
+   - Build und die vorhandenen Tests laufen durch.
+   - Der Änderungsstand seit der letzten Veröffentlichung enthält nur diese Ergänzung. Sind weitere unveröffentlichte Änderungen dabei, zum Beispiel von Philipp: **nicht veröffentlichen**, sondern Stefan fragen.
+4. Veröffentlichen (Republish). Stefan hat den Einbau beauftragt.
+5. **Live prüfen:**
+   - `curl -s https://abnehmen-mit-arzt.de/impressum/ | grep -E "Amtsgericht Charlottenburg|HRB 288229 B"` findet beide Zeilen im initialen HTML, und im Browser sind sie sichtbar.
+   - Danach die Messung aus Teil D wiederholen, mit den Dateinamen `live-after-impressum-*` und Soll 38, und das Ergebnis pushen.
+6. **Rückmeldung:**
+   - In RES-397: Commit und Prüfergebnis.
+   - In RES-371: den Writer-Lock freigeben.
