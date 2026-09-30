@@ -1,0 +1,2232 @@
+{
+ "utc": "2026-09-29T21:12:48Z",
+ "checks": [
+  {
+   "group": "public",
+   "path": "/",
+   "method": "GET",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200,
+   "title": "Abnehmspritze Berlin | AMITA Abnehmzentrum",
+   "h1": "Ärztlich begleitet abnehmen.",
+   "canonical": "https://www.abnehmen-mit-arzt.de/",
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "googlebot": "index, follow, max-image-preview:large, max-snippet:-1",
+   "bingbot": "index, follow",
+   "metaRefresh": null,
+   "jsonLdTypes": [
+    "MedicalBusiness",
+    "LocalBusiness",
+    "WebSite",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "oldPhone": true,
+   "newPhone": false,
+   "getresetapp": true,
+   "has12MonthOffer": true,
+   "has50EuroAftercare": false,
+   "sha256": "08db244935ebb4e92f37b610df1a29938fa3b175d70e609973b0d32cb860a3d2",
+   "identicalToHomepage": false
+  },
+  {
+   "group": "public",
+   "path": "/",
+   "method": "HEAD",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200
+  },
+  {
+   "group": "public",
+   "path": "/abnehmprogramm-6-monate/",
+   "method": "GET",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/abnehmprogramm-6-monate/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200,
+   "title": "Abnehmspritze Berlin | AMITA Abnehmzentrum",
+   "h1": "Ärztlich begleitet abnehmen.",
+   "canonical": "https://www.abnehmen-mit-arzt.de/",
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "googlebot": "index, follow, max-image-preview:large, max-snippet:-1",
+   "bingbot": "index, follow",
+   "metaRefresh": null,
+   "jsonLdTypes": [
+    "MedicalBusiness",
+    "LocalBusiness",
+    "WebSite",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "oldPhone": true,
+   "newPhone": false,
+   "getresetapp": true,
+   "has12MonthOffer": true,
+   "has50EuroAftercare": false,
+   "sha256": "08db244935ebb4e92f37b610df1a29938fa3b175d70e609973b0d32cb860a3d2",
+   "identicalToHomepage": true
+  },
+  {
+   "group": "public",
+   "path": "/abnehmprogramm-6-monate/",
+   "method": "HEAD",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/abnehmprogramm-6-monate/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200
+  },
+  {
+   "group": "public",
+   "path": "/fuer-arzte/",
+   "method": "GET",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/fuer-arzte/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200,
+   "title": "Abnehmspritze Berlin | AMITA Abnehmzentrum",
+   "h1": "Ärztlich begleitet abnehmen.",
+   "canonical": "https://www.abnehmen-mit-arzt.de/",
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "googlebot": "index, follow, max-image-preview:large, max-snippet:-1",
+   "bingbot": "index, follow",
+   "metaRefresh": null,
+   "jsonLdTypes": [
+    "MedicalBusiness",
+    "LocalBusiness",
+    "WebSite",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "oldPhone": true,
+   "newPhone": false,
+   "getresetapp": true,
+   "has12MonthOffer": true,
+   "has50EuroAftercare": false,
+   "sha256": "08db244935ebb4e92f37b610df1a29938fa3b175d70e609973b0d32cb860a3d2",
+   "identicalToHomepage": true
+  },
+  {
+   "group": "public",
+   "path": "/fuer-arzte/",
+   "method": "HEAD",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/fuer-arzte/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200
+  },
+  {
+   "group": "public",
+   "path": "/preisvergleich/",
+   "method": "GET",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/preisvergleich/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200,
+   "title": "Abnehmspritze Berlin | AMITA Abnehmzentrum",
+   "h1": "Ärztlich begleitet abnehmen.",
+   "canonical": "https://www.abnehmen-mit-arzt.de/",
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "googlebot": "index, follow, max-image-preview:large, max-snippet:-1",
+   "bingbot": "index, follow",
+   "metaRefresh": null,
+   "jsonLdTypes": [
+    "MedicalBusiness",
+    "LocalBusiness",
+    "WebSite",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "oldPhone": true,
+   "newPhone": false,
+   "getresetapp": true,
+   "has12MonthOffer": true,
+   "has50EuroAftercare": false,
+   "sha256": "08db244935ebb4e92f37b610df1a29938fa3b175d70e609973b0d32cb860a3d2",
+   "identicalToHomepage": true
+  },
+  {
+   "group": "public",
+   "path": "/preisvergleich/",
+   "method": "HEAD",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/preisvergleich/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200
+  },
+  {
+   "group": "public",
+   "path": "/faq/",
+   "method": "GET",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/faq/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200,
+   "title": "Abnehmspritze Berlin | AMITA Abnehmzentrum",
+   "h1": "Ärztlich begleitet abnehmen.",
+   "canonical": "https://www.abnehmen-mit-arzt.de/",
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "googlebot": "index, follow, max-image-preview:large, max-snippet:-1",
+   "bingbot": "index, follow",
+   "metaRefresh": null,
+   "jsonLdTypes": [
+    "MedicalBusiness",
+    "LocalBusiness",
+    "WebSite",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "oldPhone": true,
+   "newPhone": false,
+   "getresetapp": true,
+   "has12MonthOffer": true,
+   "has50EuroAftercare": false,
+   "sha256": "08db244935ebb4e92f37b610df1a29938fa3b175d70e609973b0d32cb860a3d2",
+   "identicalToHomepage": true
+  },
+  {
+   "group": "public",
+   "path": "/faq/",
+   "method": "HEAD",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/faq/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200
+  },
+  {
+   "group": "public",
+   "path": "/abnehmspritze-berlin/",
+   "method": "GET",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/abnehmspritze-berlin/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200,
+   "title": "Abnehmspritze Berlin | AMITA Abnehmzentrum",
+   "h1": "Ärztlich begleitet abnehmen.",
+   "canonical": "https://www.abnehmen-mit-arzt.de/",
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "googlebot": "index, follow, max-image-preview:large, max-snippet:-1",
+   "bingbot": "index, follow",
+   "metaRefresh": null,
+   "jsonLdTypes": [
+    "MedicalBusiness",
+    "LocalBusiness",
+    "WebSite",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "oldPhone": true,
+   "newPhone": false,
+   "getresetapp": true,
+   "has12MonthOffer": true,
+   "has50EuroAftercare": false,
+   "sha256": "08db244935ebb4e92f37b610df1a29938fa3b175d70e609973b0d32cb860a3d2",
+   "identicalToHomepage": true
+  },
+  {
+   "group": "public",
+   "path": "/abnehmspritze-berlin/",
+   "method": "HEAD",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/abnehmspritze-berlin/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200
+  },
+  {
+   "group": "public",
+   "path": "/abnehmspritze-kosten/",
+   "method": "GET",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/abnehmspritze-kosten/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200,
+   "title": "Abnehmspritze Berlin | AMITA Abnehmzentrum",
+   "h1": "Ärztlich begleitet abnehmen.",
+   "canonical": "https://www.abnehmen-mit-arzt.de/",
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "googlebot": "index, follow, max-image-preview:large, max-snippet:-1",
+   "bingbot": "index, follow",
+   "metaRefresh": null,
+   "jsonLdTypes": [
+    "MedicalBusiness",
+    "LocalBusiness",
+    "WebSite",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "oldPhone": true,
+   "newPhone": false,
+   "getresetapp": true,
+   "has12MonthOffer": true,
+   "has50EuroAftercare": false,
+   "sha256": "08db244935ebb4e92f37b610df1a29938fa3b175d70e609973b0d32cb860a3d2",
+   "identicalToHomepage": true
+  },
+  {
+   "group": "public",
+   "path": "/abnehmspritze-kosten/",
+   "method": "HEAD",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/abnehmspritze-kosten/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200
+  },
+  {
+   "group": "public",
+   "path": "/mounjaro-berlin/",
+   "method": "GET",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/mounjaro-berlin/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200,
+   "title": "Abnehmspritze Berlin | AMITA Abnehmzentrum",
+   "h1": "Ärztlich begleitet abnehmen.",
+   "canonical": "https://www.abnehmen-mit-arzt.de/",
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "googlebot": "index, follow, max-image-preview:large, max-snippet:-1",
+   "bingbot": "index, follow",
+   "metaRefresh": null,
+   "jsonLdTypes": [
+    "MedicalBusiness",
+    "LocalBusiness",
+    "WebSite",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "oldPhone": true,
+   "newPhone": false,
+   "getresetapp": true,
+   "has12MonthOffer": true,
+   "has50EuroAftercare": false,
+   "sha256": "08db244935ebb4e92f37b610df1a29938fa3b175d70e609973b0d32cb860a3d2",
+   "identicalToHomepage": true
+  },
+  {
+   "group": "public",
+   "path": "/mounjaro-berlin/",
+   "method": "HEAD",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/mounjaro-berlin/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200
+  },
+  {
+   "group": "public",
+   "path": "/wegovy-berlin/",
+   "method": "GET",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/wegovy-berlin/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200,
+   "title": "Abnehmspritze Berlin | AMITA Abnehmzentrum",
+   "h1": "Ärztlich begleitet abnehmen.",
+   "canonical": "https://www.abnehmen-mit-arzt.de/",
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "googlebot": "index, follow, max-image-preview:large, max-snippet:-1",
+   "bingbot": "index, follow",
+   "metaRefresh": null,
+   "jsonLdTypes": [
+    "MedicalBusiness",
+    "LocalBusiness",
+    "WebSite",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "oldPhone": true,
+   "newPhone": false,
+   "getresetapp": true,
+   "has12MonthOffer": true,
+   "has50EuroAftercare": false,
+   "sha256": "08db244935ebb4e92f37b610df1a29938fa3b175d70e609973b0d32cb860a3d2",
+   "identicalToHomepage": true
+  },
+  {
+   "group": "public",
+   "path": "/wegovy-berlin/",
+   "method": "HEAD",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/wegovy-berlin/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200
+  },
+  {
+   "group": "public",
+   "path": "/abnehmzentrum-berlin/",
+   "method": "GET",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/abnehmzentrum-berlin/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200,
+   "title": "Abnehmspritze Berlin | AMITA Abnehmzentrum",
+   "h1": "Ärztlich begleitet abnehmen.",
+   "canonical": "https://www.abnehmen-mit-arzt.de/",
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "googlebot": "index, follow, max-image-preview:large, max-snippet:-1",
+   "bingbot": "index, follow",
+   "metaRefresh": null,
+   "jsonLdTypes": [
+    "MedicalBusiness",
+    "LocalBusiness",
+    "WebSite",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "oldPhone": true,
+   "newPhone": false,
+   "getresetapp": true,
+   "has12MonthOffer": true,
+   "has50EuroAftercare": false,
+   "sha256": "08db244935ebb4e92f37b610df1a29938fa3b175d70e609973b0d32cb860a3d2",
+   "identicalToHomepage": true
+  },
+  {
+   "group": "public",
+   "path": "/abnehmzentrum-berlin/",
+   "method": "HEAD",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/abnehmzentrum-berlin/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200
+  },
+  {
+   "group": "public",
+   "path": "/abnehmspritze-nebenwirkungen/",
+   "method": "GET",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/abnehmspritze-nebenwirkungen/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200,
+   "title": "Abnehmspritze Berlin | AMITA Abnehmzentrum",
+   "h1": "Ärztlich begleitet abnehmen.",
+   "canonical": "https://www.abnehmen-mit-arzt.de/",
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "googlebot": "index, follow, max-image-preview:large, max-snippet:-1",
+   "bingbot": "index, follow",
+   "metaRefresh": null,
+   "jsonLdTypes": [
+    "MedicalBusiness",
+    "LocalBusiness",
+    "WebSite",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "oldPhone": true,
+   "newPhone": false,
+   "getresetapp": true,
+   "has12MonthOffer": true,
+   "has50EuroAftercare": false,
+   "sha256": "08db244935ebb4e92f37b610df1a29938fa3b175d70e609973b0d32cb860a3d2",
+   "identicalToHomepage": true
+  },
+  {
+   "group": "public",
+   "path": "/abnehmspritze-nebenwirkungen/",
+   "method": "HEAD",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/abnehmspritze-nebenwirkungen/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200
+  },
+  {
+   "group": "public",
+   "path": "/abnehmspritze-ohne-diabetes/",
+   "method": "GET",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/abnehmspritze-ohne-diabetes/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200,
+   "title": "Abnehmspritze Berlin | AMITA Abnehmzentrum",
+   "h1": "Ärztlich begleitet abnehmen.",
+   "canonical": "https://www.abnehmen-mit-arzt.de/",
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "googlebot": "index, follow, max-image-preview:large, max-snippet:-1",
+   "bingbot": "index, follow",
+   "metaRefresh": null,
+   "jsonLdTypes": [
+    "MedicalBusiness",
+    "LocalBusiness",
+    "WebSite",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "oldPhone": true,
+   "newPhone": false,
+   "getresetapp": true,
+   "has12MonthOffer": true,
+   "has50EuroAftercare": false,
+   "sha256": "08db244935ebb4e92f37b610df1a29938fa3b175d70e609973b0d32cb860a3d2",
+   "identicalToHomepage": true
+  },
+  {
+   "group": "public",
+   "path": "/abnehmspritze-ohne-diabetes/",
+   "method": "HEAD",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/abnehmspritze-ohne-diabetes/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200
+  },
+  {
+   "group": "public",
+   "path": "/abnehmspritze-verschreiben-lassen/",
+   "method": "GET",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/abnehmspritze-verschreiben-lassen/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200,
+   "title": "Abnehmspritze Berlin | AMITA Abnehmzentrum",
+   "h1": "Ärztlich begleitet abnehmen.",
+   "canonical": "https://www.abnehmen-mit-arzt.de/",
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "googlebot": "index, follow, max-image-preview:large, max-snippet:-1",
+   "bingbot": "index, follow",
+   "metaRefresh": null,
+   "jsonLdTypes": [
+    "MedicalBusiness",
+    "LocalBusiness",
+    "WebSite",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "oldPhone": true,
+   "newPhone": false,
+   "getresetapp": true,
+   "has12MonthOffer": true,
+   "has50EuroAftercare": false,
+   "sha256": "08db244935ebb4e92f37b610df1a29938fa3b175d70e609973b0d32cb860a3d2",
+   "identicalToHomepage": true
+  },
+  {
+   "group": "public",
+   "path": "/abnehmspritze-verschreiben-lassen/",
+   "method": "HEAD",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/abnehmspritze-verschreiben-lassen/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200
+  },
+  {
+   "group": "public",
+   "path": "/vergleich/",
+   "method": "GET",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/vergleich/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200,
+   "title": "Abnehmspritze Berlin | AMITA Abnehmzentrum",
+   "h1": "Ärztlich begleitet abnehmen.",
+   "canonical": "https://www.abnehmen-mit-arzt.de/",
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "googlebot": "index, follow, max-image-preview:large, max-snippet:-1",
+   "bingbot": "index, follow",
+   "metaRefresh": null,
+   "jsonLdTypes": [
+    "MedicalBusiness",
+    "LocalBusiness",
+    "WebSite",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "oldPhone": true,
+   "newPhone": false,
+   "getresetapp": true,
+   "has12MonthOffer": true,
+   "has50EuroAftercare": false,
+   "sha256": "08db244935ebb4e92f37b610df1a29938fa3b175d70e609973b0d32cb860a3d2",
+   "identicalToHomepage": true
+  },
+  {
+   "group": "public",
+   "path": "/vergleich/",
+   "method": "HEAD",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/vergleich/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200
+  },
+  {
+   "group": "public",
+   "path": "/vergleich-juniper/",
+   "method": "GET",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/vergleich-juniper/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200,
+   "title": "Abnehmspritze Berlin | AMITA Abnehmzentrum",
+   "h1": "Ärztlich begleitet abnehmen.",
+   "canonical": "https://www.abnehmen-mit-arzt.de/",
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "googlebot": "index, follow, max-image-preview:large, max-snippet:-1",
+   "bingbot": "index, follow",
+   "metaRefresh": null,
+   "jsonLdTypes": [
+    "MedicalBusiness",
+    "LocalBusiness",
+    "WebSite",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "oldPhone": true,
+   "newPhone": false,
+   "getresetapp": true,
+   "has12MonthOffer": true,
+   "has50EuroAftercare": false,
+   "sha256": "08db244935ebb4e92f37b610df1a29938fa3b175d70e609973b0d32cb860a3d2",
+   "identicalToHomepage": true
+  },
+  {
+   "group": "public",
+   "path": "/vergleich-juniper/",
+   "method": "HEAD",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/vergleich-juniper/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200
+  },
+  {
+   "group": "public",
+   "path": "/vergleich-voy/",
+   "method": "GET",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/vergleich-voy/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200,
+   "title": "Abnehmspritze Berlin | AMITA Abnehmzentrum",
+   "h1": "Ärztlich begleitet abnehmen.",
+   "canonical": "https://www.abnehmen-mit-arzt.de/",
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "googlebot": "index, follow, max-image-preview:large, max-snippet:-1",
+   "bingbot": "index, follow",
+   "metaRefresh": null,
+   "jsonLdTypes": [
+    "MedicalBusiness",
+    "LocalBusiness",
+    "WebSite",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "oldPhone": true,
+   "newPhone": false,
+   "getresetapp": true,
+   "has12MonthOffer": true,
+   "has50EuroAftercare": false,
+   "sha256": "08db244935ebb4e92f37b610df1a29938fa3b175d70e609973b0d32cb860a3d2",
+   "identicalToHomepage": true
+  },
+  {
+   "group": "public",
+   "path": "/vergleich-voy/",
+   "method": "HEAD",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/vergleich-voy/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200
+  },
+  {
+   "group": "public",
+   "path": "/vergleich-golighter/",
+   "method": "GET",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/vergleich-golighter/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200,
+   "title": "Abnehmspritze Berlin | AMITA Abnehmzentrum",
+   "h1": "Ärztlich begleitet abnehmen.",
+   "canonical": "https://www.abnehmen-mit-arzt.de/",
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "googlebot": "index, follow, max-image-preview:large, max-snippet:-1",
+   "bingbot": "index, follow",
+   "metaRefresh": null,
+   "jsonLdTypes": [
+    "MedicalBusiness",
+    "LocalBusiness",
+    "WebSite",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "oldPhone": true,
+   "newPhone": false,
+   "getresetapp": true,
+   "has12MonthOffer": true,
+   "has50EuroAftercare": false,
+   "sha256": "08db244935ebb4e92f37b610df1a29938fa3b175d70e609973b0d32cb860a3d2",
+   "identicalToHomepage": true
+  },
+  {
+   "group": "public",
+   "path": "/vergleich-golighter/",
+   "method": "HEAD",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/vergleich-golighter/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200
+  },
+  {
+   "group": "public",
+   "path": "/vergleich-doktorabc/",
+   "method": "GET",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/vergleich-doktorabc/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200,
+   "title": "Abnehmspritze Berlin | AMITA Abnehmzentrum",
+   "h1": "Ärztlich begleitet abnehmen.",
+   "canonical": "https://www.abnehmen-mit-arzt.de/",
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "googlebot": "index, follow, max-image-preview:large, max-snippet:-1",
+   "bingbot": "index, follow",
+   "metaRefresh": null,
+   "jsonLdTypes": [
+    "MedicalBusiness",
+    "LocalBusiness",
+    "WebSite",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "oldPhone": true,
+   "newPhone": false,
+   "getresetapp": true,
+   "has12MonthOffer": true,
+   "has50EuroAftercare": false,
+   "sha256": "08db244935ebb4e92f37b610df1a29938fa3b175d70e609973b0d32cb860a3d2",
+   "identicalToHomepage": true
+  },
+  {
+   "group": "public",
+   "path": "/vergleich-doktorabc/",
+   "method": "HEAD",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/vergleich-doktorabc/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200
+  },
+  {
+   "group": "public",
+   "path": "/vergleich-hausarzt/",
+   "method": "GET",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/vergleich-hausarzt/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200,
+   "title": "Abnehmspritze Berlin | AMITA Abnehmzentrum",
+   "h1": "Ärztlich begleitet abnehmen.",
+   "canonical": "https://www.abnehmen-mit-arzt.de/",
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "googlebot": "index, follow, max-image-preview:large, max-snippet:-1",
+   "bingbot": "index, follow",
+   "metaRefresh": null,
+   "jsonLdTypes": [
+    "MedicalBusiness",
+    "LocalBusiness",
+    "WebSite",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "oldPhone": true,
+   "newPhone": false,
+   "getresetapp": true,
+   "has12MonthOffer": true,
+   "has50EuroAftercare": false,
+   "sha256": "08db244935ebb4e92f37b610df1a29938fa3b175d70e609973b0d32cb860a3d2",
+   "identicalToHomepage": true
+  },
+  {
+   "group": "public",
+   "path": "/vergleich-hausarzt/",
+   "method": "HEAD",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/vergleich-hausarzt/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200
+  },
+  {
+   "group": "public",
+   "path": "/impressum/",
+   "method": "GET",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/impressum/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200,
+   "title": "Abnehmspritze Berlin | AMITA Abnehmzentrum",
+   "h1": "Ärztlich begleitet abnehmen.",
+   "canonical": "https://www.abnehmen-mit-arzt.de/",
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "googlebot": "index, follow, max-image-preview:large, max-snippet:-1",
+   "bingbot": "index, follow",
+   "metaRefresh": null,
+   "jsonLdTypes": [
+    "MedicalBusiness",
+    "LocalBusiness",
+    "WebSite",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "oldPhone": true,
+   "newPhone": false,
+   "getresetapp": true,
+   "has12MonthOffer": true,
+   "has50EuroAftercare": false,
+   "sha256": "08db244935ebb4e92f37b610df1a29938fa3b175d70e609973b0d32cb860a3d2",
+   "identicalToHomepage": true
+  },
+  {
+   "group": "public",
+   "path": "/impressum/",
+   "method": "HEAD",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/impressum/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200
+  },
+  {
+   "group": "public",
+   "path": "/privacy/",
+   "method": "GET",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/privacy/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200,
+   "title": "Abnehmspritze Berlin | AMITA Abnehmzentrum",
+   "h1": "Ärztlich begleitet abnehmen.",
+   "canonical": "https://www.abnehmen-mit-arzt.de/",
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "googlebot": "index, follow, max-image-preview:large, max-snippet:-1",
+   "bingbot": "index, follow",
+   "metaRefresh": null,
+   "jsonLdTypes": [
+    "MedicalBusiness",
+    "LocalBusiness",
+    "WebSite",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "oldPhone": true,
+   "newPhone": false,
+   "getresetapp": true,
+   "has12MonthOffer": true,
+   "has50EuroAftercare": false,
+   "sha256": "08db244935ebb4e92f37b610df1a29938fa3b175d70e609973b0d32cb860a3d2",
+   "identicalToHomepage": true
+  },
+  {
+   "group": "public",
+   "path": "/privacy/",
+   "method": "HEAD",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/privacy/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200
+  },
+  {
+   "group": "public",
+   "path": "/support/",
+   "method": "GET",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/support/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200,
+   "title": "Abnehmspritze Berlin | AMITA Abnehmzentrum",
+   "h1": "Ärztlich begleitet abnehmen.",
+   "canonical": "https://www.abnehmen-mit-arzt.de/",
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "googlebot": "index, follow, max-image-preview:large, max-snippet:-1",
+   "bingbot": "index, follow",
+   "metaRefresh": null,
+   "jsonLdTypes": [
+    "MedicalBusiness",
+    "LocalBusiness",
+    "WebSite",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "oldPhone": true,
+   "newPhone": false,
+   "getresetapp": true,
+   "has12MonthOffer": true,
+   "has50EuroAftercare": false,
+   "sha256": "08db244935ebb4e92f37b610df1a29938fa3b175d70e609973b0d32cb860a3d2",
+   "identicalToHomepage": true
+  },
+  {
+   "group": "public",
+   "path": "/support/",
+   "method": "HEAD",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/support/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200
+  },
+  {
+   "group": "noSlash",
+   "path": "/faq",
+   "method": "GET",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/faq",
+     "status": 301,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "no-cache, must-revalidate",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains",
+      "Location": "/faq/"
+     }
+    },
+    {
+     "url": "https://abnehmen-mit-arzt.de/faq/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200,
+   "title": "Abnehmspritze Berlin | AMITA Abnehmzentrum",
+   "h1": "Ärztlich begleitet abnehmen.",
+   "canonical": "https://www.abnehmen-mit-arzt.de/",
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "googlebot": "index, follow, max-image-preview:large, max-snippet:-1",
+   "bingbot": "index, follow",
+   "metaRefresh": null,
+   "jsonLdTypes": [
+    "MedicalBusiness",
+    "LocalBusiness",
+    "WebSite",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "oldPhone": true,
+   "newPhone": false,
+   "getresetapp": true,
+   "has12MonthOffer": true,
+   "has50EuroAftercare": false,
+   "sha256": "08db244935ebb4e92f37b610df1a29938fa3b175d70e609973b0d32cb860a3d2",
+   "identicalToHomepage": true
+  },
+  {
+   "group": "noSlash",
+   "path": "/faq",
+   "method": "HEAD",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/faq",
+     "status": 301,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "no-cache, must-revalidate",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains",
+      "Location": "/faq/"
+     }
+    },
+    {
+     "url": "https://abnehmen-mit-arzt.de/faq/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200
+  },
+  {
+   "group": "noSlash",
+   "path": "/impressum",
+   "method": "GET",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/impressum",
+     "status": 301,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "no-cache, must-revalidate",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains",
+      "Location": "/impressum/"
+     }
+    },
+    {
+     "url": "https://abnehmen-mit-arzt.de/impressum/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200,
+   "title": "Abnehmspritze Berlin | AMITA Abnehmzentrum",
+   "h1": "Ärztlich begleitet abnehmen.",
+   "canonical": "https://www.abnehmen-mit-arzt.de/",
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "googlebot": "index, follow, max-image-preview:large, max-snippet:-1",
+   "bingbot": "index, follow",
+   "metaRefresh": null,
+   "jsonLdTypes": [
+    "MedicalBusiness",
+    "LocalBusiness",
+    "WebSite",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "oldPhone": true,
+   "newPhone": false,
+   "getresetapp": true,
+   "has12MonthOffer": true,
+   "has50EuroAftercare": false,
+   "sha256": "08db244935ebb4e92f37b610df1a29938fa3b175d70e609973b0d32cb860a3d2",
+   "identicalToHomepage": true
+  },
+  {
+   "group": "noSlash",
+   "path": "/impressum",
+   "method": "HEAD",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/impressum",
+     "status": 301,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "no-cache, must-revalidate",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains",
+      "Location": "/impressum/"
+     }
+    },
+    {
+     "url": "https://abnehmen-mit-arzt.de/impressum/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200
+  },
+  {
+   "group": "noSlash",
+   "path": "/abnehmprogramm-6-monate",
+   "method": "GET",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/abnehmprogramm-6-monate",
+     "status": 301,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "no-cache, must-revalidate",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains",
+      "Location": "/abnehmprogramm-6-monate/"
+     }
+    },
+    {
+     "url": "https://abnehmen-mit-arzt.de/abnehmprogramm-6-monate/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200,
+   "title": "Abnehmspritze Berlin | AMITA Abnehmzentrum",
+   "h1": "Ärztlich begleitet abnehmen.",
+   "canonical": "https://www.abnehmen-mit-arzt.de/",
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "googlebot": "index, follow, max-image-preview:large, max-snippet:-1",
+   "bingbot": "index, follow",
+   "metaRefresh": null,
+   "jsonLdTypes": [
+    "MedicalBusiness",
+    "LocalBusiness",
+    "WebSite",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "oldPhone": true,
+   "newPhone": false,
+   "getresetapp": true,
+   "has12MonthOffer": true,
+   "has50EuroAftercare": false,
+   "sha256": "08db244935ebb4e92f37b610df1a29938fa3b175d70e609973b0d32cb860a3d2",
+   "identicalToHomepage": true
+  },
+  {
+   "group": "noSlash",
+   "path": "/abnehmprogramm-6-monate",
+   "method": "HEAD",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/abnehmprogramm-6-monate",
+     "status": 301,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "no-cache, must-revalidate",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains",
+      "Location": "/abnehmprogramm-6-monate/"
+     }
+    },
+    {
+     "url": "https://abnehmen-mit-arzt.de/abnehmprogramm-6-monate/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200
+  },
+  {
+   "group": "oldOffer",
+   "path": "/abnehmprogramm-12-monate",
+   "method": "GET",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/abnehmprogramm-12-monate",
+     "status": 301,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "no-cache, must-revalidate",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains",
+      "Location": "/abnehmprogramm-12-monate/"
+     }
+    },
+    {
+     "url": "https://abnehmen-mit-arzt.de/abnehmprogramm-12-monate/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200,
+   "title": "Abnehmspritze Berlin | AMITA Abnehmzentrum",
+   "h1": "Ärztlich begleitet abnehmen.",
+   "canonical": "https://www.abnehmen-mit-arzt.de/",
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "googlebot": "index, follow, max-image-preview:large, max-snippet:-1",
+   "bingbot": "index, follow",
+   "metaRefresh": null,
+   "jsonLdTypes": [
+    "MedicalBusiness",
+    "LocalBusiness",
+    "WebSite",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "oldPhone": true,
+   "newPhone": false,
+   "getresetapp": true,
+   "has12MonthOffer": true,
+   "has50EuroAftercare": false,
+   "sha256": "08db244935ebb4e92f37b610df1a29938fa3b175d70e609973b0d32cb860a3d2",
+   "identicalToHomepage": true
+  },
+  {
+   "group": "oldOffer",
+   "path": "/abnehmprogramm-12-monate",
+   "method": "HEAD",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/abnehmprogramm-12-monate",
+     "status": 301,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "no-cache, must-revalidate",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains",
+      "Location": "/abnehmprogramm-12-monate/"
+     }
+    },
+    {
+     "url": "https://abnehmen-mit-arzt.de/abnehmprogramm-12-monate/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200
+  },
+  {
+   "group": "oldOffer",
+   "path": "/abnehmprogramm-12-monate/",
+   "method": "GET",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/abnehmprogramm-12-monate/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200,
+   "title": "Abnehmspritze Berlin | AMITA Abnehmzentrum",
+   "h1": "Ärztlich begleitet abnehmen.",
+   "canonical": "https://www.abnehmen-mit-arzt.de/",
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "googlebot": "index, follow, max-image-preview:large, max-snippet:-1",
+   "bingbot": "index, follow",
+   "metaRefresh": null,
+   "jsonLdTypes": [
+    "MedicalBusiness",
+    "LocalBusiness",
+    "WebSite",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "oldPhone": true,
+   "newPhone": false,
+   "getresetapp": true,
+   "has12MonthOffer": true,
+   "has50EuroAftercare": false,
+   "sha256": "08db244935ebb4e92f37b610df1a29938fa3b175d70e609973b0d32cb860a3d2",
+   "identicalToHomepage": true
+  },
+  {
+   "group": "oldOffer",
+   "path": "/abnehmprogramm-12-monate/",
+   "method": "HEAD",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/abnehmprogramm-12-monate/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200
+  },
+  {
+   "group": "oldOffer",
+   "path": "/abnehmprogramm-12-monate/index.html",
+   "method": "GET",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/abnehmprogramm-12-monate/index.html",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200,
+   "title": "12 Monate Abnehmprogramm | AMITA Abnehmzentrum Berlin",
+   "h1": "Dein 12 Monate Abnehmprogramm",
+   "canonical": "https://www.abnehmen-mit-arzt.de/abnehmprogramm-12-monate",
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "googlebot": "index, follow, max-image-preview:large, max-snippet:-1",
+   "bingbot": "index, follow",
+   "metaRefresh": null,
+   "jsonLdTypes": [
+    "MedicalBusiness",
+    "LocalBusiness",
+    "WebSite",
+    "BreadcrumbList"
+   ],
+   "oldPhone": true,
+   "newPhone": false,
+   "getresetapp": true,
+   "has12MonthOffer": true,
+   "has50EuroAftercare": false,
+   "sha256": "6da030d0a3161437639fc7f4d1d0db21faf235835556f0eed0d2d72fd7322afd",
+   "identicalToHomepage": false
+  },
+  {
+   "group": "oldOffer",
+   "path": "/abnehmprogramm-12-monate/index.html",
+   "method": "HEAD",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/abnehmprogramm-12-monate/index.html",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200
+  },
+  {
+   "group": "oldOffer",
+   "path": "/abnehmprogramm-12-monate/?utm_source=test",
+   "method": "GET",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/abnehmprogramm-12-monate/?utm_source=test",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200,
+   "title": "Abnehmspritze Berlin | AMITA Abnehmzentrum",
+   "h1": "Ärztlich begleitet abnehmen.",
+   "canonical": "https://www.abnehmen-mit-arzt.de/",
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "googlebot": "index, follow, max-image-preview:large, max-snippet:-1",
+   "bingbot": "index, follow",
+   "metaRefresh": null,
+   "jsonLdTypes": [
+    "MedicalBusiness",
+    "LocalBusiness",
+    "WebSite",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "oldPhone": true,
+   "newPhone": false,
+   "getresetapp": true,
+   "has12MonthOffer": true,
+   "has50EuroAftercare": false,
+   "sha256": "08db244935ebb4e92f37b610df1a29938fa3b175d70e609973b0d32cb860a3d2",
+   "identicalToHomepage": true
+  },
+  {
+   "group": "oldOffer",
+   "path": "/abnehmprogramm-12-monate/?utm_source=test",
+   "method": "HEAD",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/abnehmprogramm-12-monate/?utm_source=test",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200
+  },
+  {
+   "group": "spa",
+   "path": "/funnel/cross/",
+   "method": "GET",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/funnel/cross/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200,
+   "title": "Abnehmspritze Berlin | AMITA Abnehmzentrum",
+   "h1": "Ärztlich begleitet abnehmen.",
+   "canonical": "https://www.abnehmen-mit-arzt.de/",
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "googlebot": "index, follow, max-image-preview:large, max-snippet:-1",
+   "bingbot": "index, follow",
+   "metaRefresh": null,
+   "jsonLdTypes": [
+    "MedicalBusiness",
+    "LocalBusiness",
+    "WebSite",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "oldPhone": true,
+   "newPhone": false,
+   "getresetapp": true,
+   "has12MonthOffer": true,
+   "has50EuroAftercare": false,
+   "sha256": "08db244935ebb4e92f37b610df1a29938fa3b175d70e609973b0d32cb860a3d2",
+   "identicalToHomepage": true
+  },
+  {
+   "group": "spa",
+   "path": "/funnel/cross/",
+   "method": "HEAD",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/funnel/cross/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200
+  },
+  {
+   "group": "spa",
+   "path": "/funnel/cross/angebot/",
+   "method": "GET",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/funnel/cross/angebot/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200,
+   "title": "Abnehmspritze Berlin | AMITA Abnehmzentrum",
+   "h1": "Ärztlich begleitet abnehmen.",
+   "canonical": "https://www.abnehmen-mit-arzt.de/",
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "googlebot": "index, follow, max-image-preview:large, max-snippet:-1",
+   "bingbot": "index, follow",
+   "metaRefresh": null,
+   "jsonLdTypes": [
+    "MedicalBusiness",
+    "LocalBusiness",
+    "WebSite",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "oldPhone": true,
+   "newPhone": false,
+   "getresetapp": true,
+   "has12MonthOffer": true,
+   "has50EuroAftercare": false,
+   "sha256": "08db244935ebb4e92f37b610df1a29938fa3b175d70e609973b0d32cb860a3d2",
+   "identicalToHomepage": true
+  },
+  {
+   "group": "spa",
+   "path": "/funnel/cross/angebot/",
+   "method": "HEAD",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/funnel/cross/angebot/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200
+  },
+  {
+   "group": "spa",
+   "path": "/funnel/gesundheit/",
+   "method": "GET",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/funnel/gesundheit/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200,
+   "title": "Abnehmspritze Berlin | AMITA Abnehmzentrum",
+   "h1": "Ärztlich begleitet abnehmen.",
+   "canonical": "https://www.abnehmen-mit-arzt.de/",
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "googlebot": "index, follow, max-image-preview:large, max-snippet:-1",
+   "bingbot": "index, follow",
+   "metaRefresh": null,
+   "jsonLdTypes": [
+    "MedicalBusiness",
+    "LocalBusiness",
+    "WebSite",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "oldPhone": true,
+   "newPhone": false,
+   "getresetapp": true,
+   "has12MonthOffer": true,
+   "has50EuroAftercare": false,
+   "sha256": "08db244935ebb4e92f37b610df1a29938fa3b175d70e609973b0d32cb860a3d2",
+   "identicalToHomepage": true
+  },
+  {
+   "group": "spa",
+   "path": "/funnel/gesundheit/",
+   "method": "HEAD",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/funnel/gesundheit/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200
+  },
+  {
+   "group": "alias",
+   "path": "/fuer-fachkreise/",
+   "method": "GET",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/fuer-fachkreise/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200,
+   "title": "Abnehmspritze Berlin | AMITA Abnehmzentrum",
+   "h1": "Ärztlich begleitet abnehmen.",
+   "canonical": "https://www.abnehmen-mit-arzt.de/",
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "googlebot": "index, follow, max-image-preview:large, max-snippet:-1",
+   "bingbot": "index, follow",
+   "metaRefresh": null,
+   "jsonLdTypes": [
+    "MedicalBusiness",
+    "LocalBusiness",
+    "WebSite",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "oldPhone": true,
+   "newPhone": false,
+   "getresetapp": true,
+   "has12MonthOffer": true,
+   "has50EuroAftercare": false,
+   "sha256": "08db244935ebb4e92f37b610df1a29938fa3b175d70e609973b0d32cb860a3d2",
+   "identicalToHomepage": true
+  },
+  {
+   "group": "alias",
+   "path": "/fuer-fachkreise/",
+   "method": "HEAD",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/fuer-fachkreise/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200
+  },
+  {
+   "group": "alias",
+   "path": "/so-funktionierts/",
+   "method": "GET",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/so-funktionierts/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200,
+   "title": "Abnehmspritze Berlin | AMITA Abnehmzentrum",
+   "h1": "Ärztlich begleitet abnehmen.",
+   "canonical": "https://www.abnehmen-mit-arzt.de/",
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "googlebot": "index, follow, max-image-preview:large, max-snippet:-1",
+   "bingbot": "index, follow",
+   "metaRefresh": null,
+   "jsonLdTypes": [
+    "MedicalBusiness",
+    "LocalBusiness",
+    "WebSite",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "oldPhone": true,
+   "newPhone": false,
+   "getresetapp": true,
+   "has12MonthOffer": true,
+   "has50EuroAftercare": false,
+   "sha256": "08db244935ebb4e92f37b610df1a29938fa3b175d70e609973b0d32cb860a3d2",
+   "identicalToHomepage": true
+  },
+  {
+   "group": "alias",
+   "path": "/so-funktionierts/",
+   "method": "HEAD",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/so-funktionierts/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200
+  },
+  {
+   "group": "missing",
+   "path": "/gibt-es-nicht-claude-check/",
+   "method": "GET",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/gibt-es-nicht-claude-check/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200,
+   "title": "Abnehmspritze Berlin | AMITA Abnehmzentrum",
+   "h1": "Ärztlich begleitet abnehmen.",
+   "canonical": "https://www.abnehmen-mit-arzt.de/",
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "googlebot": "index, follow, max-image-preview:large, max-snippet:-1",
+   "bingbot": "index, follow",
+   "metaRefresh": null,
+   "jsonLdTypes": [
+    "MedicalBusiness",
+    "LocalBusiness",
+    "WebSite",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "oldPhone": true,
+   "newPhone": false,
+   "getresetapp": true,
+   "has12MonthOffer": true,
+   "has50EuroAftercare": false,
+   "sha256": "08db244935ebb4e92f37b610df1a29938fa3b175d70e609973b0d32cb860a3d2",
+   "identicalToHomepage": true
+  },
+  {
+   "group": "missing",
+   "path": "/gibt-es-nicht-claude-check/",
+   "method": "HEAD",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/gibt-es-nicht-claude-check/",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200
+  },
+  {
+   "group": "missing",
+   "path": "/api/not-a-real-endpoint",
+   "method": "GET",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/api/not-a-real-endpoint",
+     "status": 404,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 404,
+   "title": "Error",
+   "h1": null,
+   "canonical": null,
+   "robots": null,
+   "googlebot": null,
+   "bingbot": null,
+   "metaRefresh": null,
+   "jsonLdTypes": [],
+   "oldPhone": false,
+   "newPhone": false,
+   "getresetapp": false,
+   "has12MonthOffer": false,
+   "has50EuroAftercare": false,
+   "sha256": "8bfe98d0383282c57c135f95ae4de11c0945a60f6ca26f0818671732968b17f7",
+   "identicalToHomepage": false
+  },
+  {
+   "group": "missing",
+   "path": "/api/not-a-real-endpoint",
+   "method": "HEAD",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/api/not-a-real-endpoint",
+     "status": 404,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 404
+  },
+  {
+   "group": "file",
+   "path": "/sitemap.xml",
+   "method": "GET",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/sitemap.xml",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/xml; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200,
+   "sha256": "df1be95a7e5bc43187e18d171e4993c7724b51a615d55a529f45e45a6846c5e0",
+   "sitemapLocs": 23,
+   "mentions12": true,
+   "isHomepage": false
+  },
+  {
+   "group": "file",
+   "path": "/robots.txt",
+   "method": "GET",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/robots.txt",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/plain; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200,
+   "sha256": "eaa317adbb4accfec247a2b82c825005a758fcfc0f1829635ee04fdaecdeffea",
+   "sitemapLocs": null,
+   "mentions12": false,
+   "isHomepage": false
+  },
+  {
+   "group": "file",
+   "path": "/llms.txt",
+   "method": "GET",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/llms.txt",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/plain; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200,
+   "sha256": "86ce93a56a56303e44ad75aa3f3477faec165f4304b3da97b74fb684361e4498",
+   "sitemapLocs": null,
+   "mentions12": true,
+   "isHomepage": false
+  },
+  {
+   "group": "host",
+   "path": "https://abnehmen-mit-arzt.de/abnehmspritze-kosten/?q=1",
+   "chain": [
+    {
+     "url": "https://abnehmen-mit-arzt.de/abnehmspritze-kosten/?q=1",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200,
+   "canonical": "https://www.abnehmen-mit-arzt.de/"
+  },
+  {
+   "group": "host",
+   "path": "http://abnehmen-mit-arzt.de/abnehmspritze-kosten/?q=1",
+   "chain": [
+    {
+     "url": "http://abnehmen-mit-arzt.de/abnehmspritze-kosten/?q=1",
+     "status": 301,
+     "headers": {
+      "Content-Type": "text/html; charset=UTF-8",
+      "Cache-Control": "private",
+      "Location": "https://abnehmen-mit-arzt.de:443/abnehmspritze-kosten/?q=1"
+     }
+    },
+    {
+     "url": "https://abnehmen-mit-arzt.de:443/abnehmspritze-kosten/?q=1",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200,
+   "canonical": "https://www.abnehmen-mit-arzt.de/"
+  },
+  {
+   "group": "host",
+   "path": "https://www.abnehmen-mit-arzt.de/abnehmspritze-kosten/?q=1",
+   "chain": [
+    {
+     "url": "https://www.abnehmen-mit-arzt.de/abnehmspritze-kosten/?q=1",
+     "error": "SSLError: [SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:1016)"
+    }
+   ],
+   "finalStatus": null,
+   "canonical": null
+  },
+  {
+   "group": "host",
+   "path": "http://www.abnehmen-mit-arzt.de/abnehmspritze-kosten/?q=1",
+   "chain": [
+    {
+     "url": "http://www.abnehmen-mit-arzt.de/abnehmspritze-kosten/?q=1",
+     "status": 301,
+     "headers": {
+      "Content-Type": "text/html",
+      "Location": "https://abnehmen-mit-arzt.de/abnehmspritze-kosten/?q=1"
+     }
+    },
+    {
+     "url": "https://abnehmen-mit-arzt.de/abnehmspritze-kosten/?q=1",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200,
+   "canonical": "https://www.abnehmen-mit-arzt.de/"
+  },
+  {
+   "group": "host",
+   "path": "https://goresetapp.com/abnehmspritze-kosten/?q=1",
+   "chain": [
+    {
+     "url": "https://goresetapp.com/abnehmspritze-kosten/?q=1",
+     "status": 200,
+     "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+     }
+    }
+   ],
+   "finalStatus": 200,
+   "canonical": "https://www.abnehmen-mit-arzt.de/"
+  }
+ ],
+ "summary": {
+  "homepageSha256": "08db244935ebb4e92f37b610df1a29938fa3b175d70e609973b0d32cb860a3d2",
+  "publicOk": 22,
+  "publicTotal": 22,
+  "homepageCopies": 21,
+  "wrongCanonicals": 22,
+  "noindexOnPublic": 0,
+  "oldPhonePages": 22,
+  "getresetappPages": 22,
+  "offer12Pages": 22,
+  "aftercare50Pages": 0,
+  "missingStatus": [
+   200,
+   404
+  ]
+ }
+}
