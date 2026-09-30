@@ -171,3 +171,12 @@ Umsetzung durch den Replit-Writer (Thema 1), danach dieselben Prüfungen wie fü
 `- Partner practices: in addition to Berlin, AMITA works with partner practices in several German cities, including Hamburg (Dr. med. Karima Abou Deif-Strathmann, Im Alten Dorfe 24, 22359 Hamburg) and Düsseldorf (ESTHETIOS, Rustam Khadzhiev, Königsallee 30, 40212 Düsseldorf). The complete, current list is in the directory: https://partner.abnehmen-mit-arzt.de/`
 
 **Abnahme P4:** Prerender-Titel = Laufzeit-Titel für alle 22 Routen, `og:site_name` nach der Hydration „Abnehmen mit Arzt (AMITA)“, `seo-routing`-Test auf eindeutige Titel (22) grün, llms.txt ohne weitere Änderungen.
+
+## Paket 5 – Facebook-Seite verknüpfen (Nutzer, 30.09.2026)
+
+Offizielle Seite laut Stefan: `https://www.facebook.com/abnehmenmitarzt` (bereinigt, ohne Tracking-Parameter).
+
+- `artifacts/shotsy-landing/index.html`: im MedicalBusiness-`sameAs` als zusätzlichen Eintrag anfügen; in der Organization `#organization` ein neues `sameAs` mit derselben URL. Bestehende Einträge bleiben.
+- `public/llms.txt`: unter „Key facts“ nach der Zeile zum Google Business Profile ergänzen: `- Facebook: https://www.facebook.com/abnehmenmitarzt`
+- Google-Profil: Social-Link „Reset-Deutschland“ durch diese URL ersetzen (Cowork, RES-379).
+- Abnahme: JSON-LD parsebar, `sameAs` in beiden Objekten, sonst keine Änderungen.
