@@ -72,3 +72,17 @@ Diese Dateien liegen im Repo `q0410holding-blip/Reset`, Branch `claude/claude-md
 - das Ergebnis der Nachkontrolle.
 
 **Rückweg bei Problemen:** den vorherigen Zustand für `www` laut Vorher-Screenshot wiederherstellen, also die Weiterleitung auf `https://abnehmen-mit-arzt.de` bzw. A `89.31.143.90`. Danach in RES-340 melden.
+
+## Teil C – Sitemap bei Google einreichen
+
+Nur ausführen, wenn `vergleich.md` aus Teil A „alle Prüfungen bestanden“ meldet.
+
+1. Search Console öffnen, Property `sc-domain:abnehmen-mit-arzt.de`, Konto `admin@getresetapp.co`. Stefan meldet sich selbst an. Unter Sitemaps `https://abnehmen-mit-arzt.de/sitemap.xml` einreichen.
+2. Über die URL-Prüfung die Indexierung beantragen, sparsam und nur für: `/`, `/abnehmprogramm-6-monate/`, `/abnehmspritze-berlin/`, `/abnehmspritze-kosten/`, `/abnehmzentrum-berlin/`, `/vergleich/`. Keine Massenanträge.
+3. **Rückmeldung in Linear RES-346:**
+   - Zeitpunkt der Einreichung,
+   - Sitemap-Status laut Search Console (z. B. erkannte URLs),
+   - beantragte URLs,
+   - Ablageort der Screenshots unter `workstreams/01-technik/evidence/20260930-gsc/`.
+
+Ein Antrag ist keine Indexierung. Als indexiert nur melden, was die Search Console tatsächlich anzeigt.
