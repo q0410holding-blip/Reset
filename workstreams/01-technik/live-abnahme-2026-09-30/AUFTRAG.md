@@ -71,6 +71,8 @@ Diese Dateien liegen im Repo `q0410holding-blip/Reset`, Branch `claude/claude-md
 - der Ablageort der Screenshots,
 - das Ergebnis der Nachkontrolle.
 
+Außerdem `live-after-www.json` in denselben Branch nach `workstreams/01-technik/live-abnahme-2026-09-30/ergebnisse/` pushen. Thema 1 wertet die Rohdaten selbst aus.
+
 **Rückweg bei Problemen:** den vorherigen Zustand für `www` laut Vorher-Screenshot wiederherstellen, also die Weiterleitung auf `https://abnehmen-mit-arzt.de` bzw. A `89.31.143.90`. Danach in RES-340 melden.
 
 ## Teil C – Sitemap bei Google einreichen
