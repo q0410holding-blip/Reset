@@ -1,6 +1,9 @@
 """Compare two live_check.py results (before, after) and print a Markdown report.
 
-Usage: python3 compare_live.py live-before-result.json live-after-result.json > vergleich.md
+Usage: python3 compare_live.py live-before-result.json live-after-result.json [SITEMAP_URLS] > vergleich.md
+
+SITEMAP_URLS is the expected number of sitemap URLs (default: the 22 public pages).
+Since Paket 5/6 (30.09.2026, ~14:00 UTC) the sitemap lists 38 URLs.
 """
 import json
 import sys
@@ -68,6 +71,7 @@ def expectations(check):
 
 def main():
     before, after = load(sys.argv[1]), load(sys.argv[2])
+    sitemap_target = int(sys.argv[3]) if len(sys.argv) > 3 else None
     b_idx, a_idx = index(before), index(after)
     b_sum, a_sum = before["summary"], after["summary"]
     lines = [
@@ -125,7 +129,7 @@ def main():
         old = b_idx.get(("file", check["path"], "GET"), {})
         ok = check.get("finalStatus") == 200 and not check.get("isHomepage") and not check.get("mentions12")
         if check["path"].endswith(".xml"):
-            ok = ok and check.get("sitemapLocs") == total
+            ok = ok and check.get("sitemapLocs") == (sitemap_target or total)
         failures += not ok
         describe = lambda c: (f"{c.get('finalStatus')}, Startseite={c.get('isHomepage')}, 12M={c.get('mentions12')}"
                               + (f", URLs={c.get('sitemapLocs')}" if c.get("sitemapLocs") is not None else ""))

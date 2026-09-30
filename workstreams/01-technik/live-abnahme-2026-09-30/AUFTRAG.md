@@ -27,7 +27,7 @@ Diese Dateien liegen im Repo `q0410holding-blip/Reset`, Branch `claude/claude-md
 |---|---|---|
 | `live_check.py` | `18d95d0ac8bbbdb9baf4137a55efe5547e82880af49c75a3b8f924632b86772a` | unverändertes Messskript der Vorher-Messung |
 | `live-before-result.json` | `161a0ecfe4dd0a59f8b978a73ebe38856d4a006a71696da30defd0386c0d4b95` | Vorher-Messung vom 29.09.2026, 21:12 UTC |
-| `compare_live.py` | `094a1593f3ecb3efa2f1ff32ed3666fb6257435a4f49439fcb06f65ac07c17f0` | erzeugt den Vorher/Nachher-Bericht |
+| `compare_live.py` | `9e7858b73c4d6828d3bf2ff10a7fa166cad147938c9db0da399fe7ae9bb02b8a` | erzeugt den Vorher/Nachher-Bericht (seit Teil D mit optionaler Soll-Anzahl der Sitemap-URLs) |
 
 ## Teil A – Nachher-Messung (sofort)
 
@@ -88,3 +88,16 @@ Nur ausführen, wenn `vergleich.md` aus Teil A „alle Prüfungen bestanden“ m
    - Ablageort der Screenshots unter `workstreams/01-technik/evidence/20260930-gsc/`.
 
 Ein Antrag ist keine Indexierung. Als indexiert nur melden, was die Search Console tatsächlich anzeigt.
+
+## Teil D – Regressionscheck nach Paket 5/6 (sofort, nur lesend)
+
+Am 30.09. gegen 14:00 UTC wurde erneut veröffentlicht (Paket 5/6, vermutlich mit Paket 4 und dem Facebook-Nachtrag). Teil D prüft, dass die Abnahme von Thema 1 weiter gilt: 22 Ursprungsseiten, 404, Funnels, Aliase, Dateien. Die Sitemap hat jetzt 38 URLs, das ist erwartet. Die Abweichung bei goresetapp.com ist ebenfalls erwartet, weil die Domain jetzt über GoDaddy weiterleitet.
+
+1. Prüfsummen wie in Teil A kontrollieren. `compare_live.py` hat jetzt die neue Summe aus der Tabelle oben.
+2. Messen und vergleichen:
+   ```bash
+   python3 live_check.py > live-after-p5-result.json 2> live-after-p5-stderr.txt; echo $? > live-after-p5-exit.txt
+   python3 compare_live.py live-before-result.json live-after-p5-result.json 38 > vergleich-p5.md
+   ```
+3. Die vier Dateien nach `workstreams/01-technik/live-abnahme-2026-09-30/ergebnisse/` in denselben Branch pushen.
+4. In Linear RES-341 das Ergebnis aus der letzten Zeile von `vergleich-p5.md` melden. Wenn etwas nicht bestanden ist, die betroffenen Zeilen dazuschreiben.
